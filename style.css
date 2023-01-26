@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+.angular-name {
+  color: rgb(189, 0, 0);
+  font-weight: 700;
+}
+
+
+.section-text {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 45px;
+}
+
+.section-caption-why {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 52px;
+  position: absolute;
+  top: -60px;
+  color: black;
+  font-weight: 700;
+}
+
+.section-why__text {
+  position: absolute;
+  top: 280px;
+}
